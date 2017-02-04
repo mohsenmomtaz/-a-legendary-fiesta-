@@ -1,0 +1,10 @@
+#incluce<stdio.h>
+
+void doSomething(char *str) {
+  return;
+}
+
+int main() {
+  volatile char[] a = "abc";
+  return 0;
+}
