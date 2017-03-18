@@ -1,6 +1,0 @@
-class SomethingElse < ParentOfSomethingElse
-  def initialize(foo, bar)
-    @foo = foo
-    @bar = bar
-  end
-end
